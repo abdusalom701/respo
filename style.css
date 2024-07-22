@@ -1,0 +1,80 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.alar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 500px;
+}
+.alar a{
+    text-decoration: none;
+    color:  #36536B;
+}
+.alar button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background: #BA4270;
+    color: white;
+}
+.div h1{
+    color: #36536B;
+    width: 360px;
+    font-size: 45px;
+}
+.bosh{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.dav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}
+.kal{
+    width: 400px;
+    height: 165px;
+    color: #36536B;
+}
+.dll{
+    color:  #36536B;
+}
+.dla{
+    color:  #36536B;
+}
+.dlu{
+    color:  #36536B;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.al{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 200px;
+}
+.al a{
+    text-decoration: none;
+    color: #36536B;
+}
+.inla{
+    display: flex;
+    align-items: center;
+}
+footer{
+    background: #1B262F;
+    height: 70px;
+}
